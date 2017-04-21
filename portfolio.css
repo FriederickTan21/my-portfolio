@@ -1,8 +1,8 @@
 #home {
-    background-image: url("http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1444253482/DG2015-san-francisco.jpg?itok=MdRJm2Zo");
+    background-image: url("source/ggb");/*url("http://cdn-image.travelandleisure.com/sites/default/files/styles/1600x1000/public/1444253482/DG2015-san-francisco.jpg?itok=MdRJm2Zo");*/
 }
 #about {
-    background-image: url("http://www.sanfranciscodeluxetours.com/images/sfdeluxe-gal-img-34.jpg");
+    background-image: url("source/chinatown");/*url("http://www.sanfranciscodeluxetours.com/images/sfdeluxe-gal-img-34.jpg");*/
     background-position: bottom; 
     margin: -30px;
 }
@@ -11,7 +11,7 @@
     padding-bottom: 250px;
 }
 #portfolio {
-    background-image: url("https://static1.squarespace.com/static/5451a72ce4b069a165b08837/t/57c907e13e00bec03eb4be65/1472792575971/Dojo+Ramen+Bar-13.jpg?format=1500w");
+    background-image: url("source/ramenbar");/*url("https://static1.squarespace.com/static/5451a72ce4b069a165b08837/t/57c907e13e00bec03eb4be65/1472792575971/Dojo+Ramen+Bar-13.jpg?format=1500w");*/
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -19,7 +19,7 @@
     background-color: rgba(255, 255, 255, 0.7);
 }
 #contact {
-    background-image: url("http://www.sirfrancisdrake.com/images/1700-960/sir-francis-drake-hotel-downtown-san-francisco-01a2d1c1.jpg");
+    background-image: url("source/drakeroad");/*url("http://www.sirfrancisdrake.com/images/1700-960/sir-francis-drake-hotel-downtown-san-francisco-01a2d1c1.jpg");*/
     background-position: center;
     margin: -30px;
 }
